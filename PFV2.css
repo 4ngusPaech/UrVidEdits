@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background-image:url(beautiful-colorful-watercolor-background-vector.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.menu-bar {
+    background: rgb(248, 137, 252);
+    text-align:center;
+    font-family: sans-serif;
+    
+}
+
+.menu-bar ul {
+display:inline-flex;
+list-style: none;
+color: white;
+}
+
+.menu-bar ul li {
+   width: 120px;
+   margin: 15px;
+   padding: 15px; 
+}
+
+.menu-bar ul li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+
+}
+
+.active, .menu-bar ul li:hover  {
+background-color: rgb(231, 87, 236) ;
+border-radius: 5px;
+
+}
+
+.sub-menu-1 {
+    display: none;
+
+}
+.menu-bar ul li:hover .sub-menu-1
+{
+    display: block;
+    position: absolute;
+    background: rgb(245, 48, 235);
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.menu-bar ul li:hover .sub-menu-1 ul
+{
+    display: block;
+    margin: 10px;
+}
+
+.menu-bar ul li:hover .sub-menu-1 ul li {
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted white;
+    background: transparent;
+    border-radius: 0%;
+    text-align: left;
+}
+
+.menu-bar ul li:hover .sub-menu-1 ul li:last-child {
+    border-bottom: none;
+}
+
+.menu-bar ul li:hover .sub-menu-1 ul li a:hover {
+   color: white ; 
+
+}
+
+#title {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+
+}
+
+#subheading {
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: sans-serif;
+
+}
+
+
+.gym {
+
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+
+
+}
+
+
+.gym h3 {
+
+    padding-bottom: 10px;
+}
+
+
+
+
+
+.soccer{
+
+    text-align: center;
+    padding-top: 50px;
+
+    padding-bottom: 10px;
+    font-family: sans-serif;
+
+
+}
+
+.soccer h3 {
+    padding-bottom: 10px;
+}
+
+.ADVERT{
+
+    text-align: center;
+    padding-top: 50px;
+
+    padding-bottom: 10px;
+    font-family: sans-serif;
+
+
+}
+
+.ADVERT h3 {
+    padding-bottom: 10px;
+    
+}
