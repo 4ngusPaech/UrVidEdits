@@ -4,8 +4,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-      -moz-transition: .5s ease-in-out;
-  -webkit-transition: .5s ease-in-out;
+  moz-transition: .5s ease-in-out;
+  webkit-transition: .5s ease-in-out;
   transition: .5s ease-in-out;
 }
 
