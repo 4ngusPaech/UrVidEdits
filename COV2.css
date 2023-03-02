@@ -80,6 +80,17 @@ border-radius: 5px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:25px; 
+    min-height:100vh;
+    background: linear-gradient(90deg, #7e7e7e 60%, #999999 40.1%);
+    padding-bottom:70px;
+
+}
+
 
 
 .col {
