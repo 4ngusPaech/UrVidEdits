@@ -91,6 +91,14 @@ border-radius: 5px;
 
 }
 
+.container form {
+    padding; 20px;
+    width: 700px;
+    background: #7e7e7e ;
+    box-shadow:0 5px 10px #rgba(0,0,0,.1);
+
+}
+
 
 
 .col {
