@@ -82,11 +82,11 @@ body {
 }
 
 
-.container {
+.col {
     background-color: grey;
-    margin-right: 1000px;
-    margin-left: 1000px;
-    margin-bottom: 1000px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
 }
 
 .inputBox {
