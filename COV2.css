@@ -82,8 +82,15 @@ body {
 }
 
 
-#container, row {
+.container, .row {
     background-color: grey;
     margin-right: 1000px;
     margin-left: 1000px;
     margin-bottom: 1000px;
+}
+
+.inputBox {
+    padding-bottom: 10px;
+}
+    
+    
