@@ -82,7 +82,7 @@ body {
 }
 
 
-.container, .row {
+.container {
     background-color: grey;
     margin-right: 1000px;
     margin-left: 1000px;
