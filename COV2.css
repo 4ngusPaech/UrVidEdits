@@ -118,6 +118,7 @@ span {
 .container form .row .col .title {
     font-size: 20px;
     color:#333;
+    padding-bottom: 5px;
     text-transform:uppercase;
     font-family:'Arial Black', sans-serif;
 
