@@ -1,13 +1,13 @@
 
 body {
-    background-image:url(beautiful-colorful-watercolor-background-vector.jpg);
+    background-color: Violet;
     background-size: cover;
     background-position: center;
 }
 
 
 .menu-bar {
-    background-color: violet;
+    background-color: Violet;
     text-align:center;
     font-family: sans-serif;
     
