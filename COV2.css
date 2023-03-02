@@ -3,7 +3,7 @@
 
 
 .menu-bar {
-    background-image:url(beautiful-colorful-watercolor-background-vector.jpg) ;
+    background-color: violet;
     text-align:center;
     font-family: sans-serif;
     
@@ -78,7 +78,7 @@ border-radius: 5px;
 }
 
 body {
-    background-color: violet;
+    background-image:url(beautiful-colorful-watercolor-background-vector.jpg) ;
 }
 
 *{
