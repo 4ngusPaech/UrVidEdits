@@ -1,5 +1,9 @@
 
-
+body {
+    background-image:url(beautiful-colorful-watercolor-background-vector.jpg) ;
+    background-size: cover;
+    background-position: center;;
+}
 
 
 .menu-bar {
@@ -77,9 +81,6 @@ border-radius: 5px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
-body {
-    background-image:url(beautiful-colorful-watercolor-background-vector.jpg) ;
-}
 
 
 .col {
