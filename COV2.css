@@ -96,7 +96,7 @@ margin: 240px auto;
 }
 
 .container .box {
-    position: relative;
+    position: absolute;
     width: calc(400px - 30px);
     height: calc(300px - 30px);
     background: #000;
@@ -134,7 +134,7 @@ margin: 240px auto;
     transform: translate(-50%, -50%);
     font-size: 80px;
     transition: 0.5s;
-    color: #fff;
+    color: #000;
 }
     
 .container .box:hover .P1 .fa {
