@@ -1,3 +1,4 @@
+
 body {
     background-image: url(beautiful-colorful-watercolor-background-vector.jpg) ;
     background-size: cover;
@@ -139,4 +140,12 @@ margin: 240px auto;
     
 .container .box:hover .P1 .fa {
          font-size: 40px;
+}
+
+.container .box .a {
+    position: absolute;
+    height: 100%;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
 }
