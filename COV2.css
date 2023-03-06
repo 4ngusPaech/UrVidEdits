@@ -141,6 +141,12 @@ margin: 240px auto;
          font-size: 40px;
 }
 
-
+.container .box .a {
+    position: absolute;
+    height: 100%;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
 
     
