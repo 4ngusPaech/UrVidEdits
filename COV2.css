@@ -110,14 +110,13 @@ margin: 240px auto;
 
 .container .box .P1 {
     position: absolute;
+    top: 0;
+    left: 0;
     top: 100%;
     left: 100%;
     width 100%;
     height: 100%;
-    background: #000;
-    transition: 0.5s;
-    z-index: 1;
-}
+    background: #f00;
 
 .container .box:hover .P1 {
     top: 20px;
