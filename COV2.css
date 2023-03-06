@@ -91,6 +91,7 @@ body {
 .InputBox {
     text-align:center;
     position:absolute;
+    padding-bottom: 20px;
 }
 
 
