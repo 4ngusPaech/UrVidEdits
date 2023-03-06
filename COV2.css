@@ -1,3 +1,4 @@
+
 body {
     background-image: url(beautiful-colorful-watercolor-background-vector.jpg) ;
     background-size: cover;
@@ -96,7 +97,7 @@ margin: 240px auto;
 }
 
 .container .box {
-    position: absolute;
+    position: relative;
     width: calc(400px - 30px);
     height: calc(300px - 30px);
     background: #000;
@@ -112,11 +113,12 @@ margin: 240px auto;
     position: absolute;
     top: 0;
     left: 0;
-    top: 100%;
-    left: 100%;
     width 100%;
     height: 100%;
     background: #f00;
+    transition: 0.5s;
+    z-index: 1;
+}
 
 .container .box:hover .P1 {
     top: 20px;
@@ -133,7 +135,7 @@ margin: 240px auto;
     transform: translate(-50%, -50%);
     font-size: 80px;
     transition: 0.5s;
-    color: #000;
+    color: #fff;
 }
     
 .container .box:hover .P1 .fa {
@@ -147,5 +149,3 @@ margin: 240px auto;
     padding: 20px;
     box-sizing: border-box;
 }
-
-    
