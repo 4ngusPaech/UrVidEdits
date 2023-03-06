@@ -80,22 +80,7 @@ border-radius: 5px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding:25px; 
-    min-height:100vh;
-    background: linear-gradient(90deg, #7e7e7e 60%, #999999 40.1%);
-    padding-bottom:70px;
 
-
-.col {
-    background-color: grey;
-    margin-right: 300px;
-    margin-left: 300px;
-    margin-bottom: 300px;
-}
 
 .inputBox {
     padding-bottom: 30px;
@@ -115,13 +100,5 @@ span {
 } 
 
 
-.container form .row .col .title {
-    font-size: 20px;
-    color:#333;
-    padding-bottom: 5px;
-    text-transform:uppercase;
-    font-family:'Arial Black', sans-serif;
-
-}
 
     
