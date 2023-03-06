@@ -109,7 +109,7 @@ margin: 240px auto;
     
 }
 
-.container .box .P1 {
+.container .box .icon {
     position: absolute;
     top: 0;
     left: 0;
@@ -120,7 +120,7 @@ margin: 240px auto;
     z-index: 1;
 }
 
-.container .box:hover .P1 {
+.container .box:hover .icon {
     top: 20px;
     left: calc(50% - 40px);
     width: 80px;
@@ -128,7 +128,7 @@ margin: 240px auto;
     border-radius: 50%;
 }
 
-.container .box .P1 .fa {
+.container .box .icon .fa {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -138,11 +138,11 @@ margin: 240px auto;
     color: #fff;
 }
     
-.container .box:hover .P1 .fa {
+.container .box:hover .icon .fa {
          font-size: 40px;
 }
 
-.container .box .a {
+.container .box .fa {
     position: absolute;
     height: 100%;
     width: 100%;
