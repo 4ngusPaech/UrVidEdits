@@ -125,8 +125,8 @@ border-radius: 5px;
 
 .container .box .icon .fa {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 100%;
+    left: 100%;
     transform: translate(-50%, -50%);
     font-size: 80px;
     transition: 0.5s;
