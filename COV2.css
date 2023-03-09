@@ -92,8 +92,8 @@ border-radius: 5px;
 
 .container, .box {
     position: relative;
-    width: calc(400px - 30px);
-    height: calc(300px - 30px);
+    width: calc 400px - 30px;
+    height: calc 300px - 30px;
     background: #ff0;
     float: left;
     margin: 15px;
@@ -116,7 +116,7 @@ border-radius: 5px;
 
 .container .box:hover .icon {
     top: 20px;
-    right: calc(50% - 40px);
+    right: calc 50% - 40px;
     width: 80px/2;
     height 80px;
     border-radius: 50%;
@@ -127,7 +127,7 @@ border-radius: 5px;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate -50%, -50%;
     font-size: 80px;
     transition: 0.5s;
     color: #fff;
