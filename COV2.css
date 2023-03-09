@@ -116,7 +116,7 @@ border-radius: 5px;
 
 .container .box:hover .icon {
     top: 20px;
-    left: calc(50% - 40px);
+    right: calc(50% - 40px);
     width: 80px/2;
     height 80px;
     border-radius: 50%;
